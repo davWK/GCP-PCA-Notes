@@ -1,8 +1,8 @@
 # Learning Notes for Google Cloud Professional Cloud Architect Exam
 
-Here is a collection of technical information related to Google Cloud Platform (GCP) that is relevant for those preparing for the GCP Professional Cloud Architect (PCA) certification exam. It covers a range of topics that are likely to be tested on the exam, including billing and resource management, data processing and management, GKE team fleet management, load balancing, private Google access, and deployment strategies. The information is presented in a structured and easy-to-read format, with each topic broken down into bullet points. As such, it provides a useful resource for those looking to prepare for the PCA exam and gain a deeper understanding of GCP and its services.
+Here is a collection of technical information related to Google Cloud Platform (GCP) that is relevant for those preparing for the GCP Professional Cloud Architect (PCA) certification exam. It covers a range of topics that are likely to be tested on the exam, including billing and resource management, data processing and management, GKE management, load balancing, connectivity, deployment strategies and so on. As such, it provides a useful resource for those looking to prepare for the PCA exam and gain an understanding of GCP and its services.
 
-*PS: These are personal learning notes based on my own understanding of concepts and topics and inspired by resources provided during my participation in the [GETGCPCERTIFIED Program 2023](https://inthecloud.withgoogle.com/get-cloud-certified/register.html?utm_campaign=622024a2f6b486000121cd20&utm_content=64439acc0a38300001e71e5c&utm_medium=smarpshare&utm_source=linkedin&utm_term=_+Google+Cloud+is+offering+a+special+program+in+2023+where+you+can+get+FREE+training+and+certification+vouchers+for+not+just+one_+but+FIVE+Google+Cloud+exams_+_%0A).*
+*PS: These are personal learning notes based on my own understanding of concepts and topics and inspired by resources provided during my participation in the [GET GCP CERTIFIED Program 2023](https://inthecloud.withgoogle.com/get-cloud-certified/register.html?utm_campaign=622024a2f6b486000121cd20&utm_content=64439acc0a38300001e71e5c&utm_medium=smarpshare&utm_source=linkedin&utm_term=_+Google+Cloud+is+offering+a+special+program+in+2023+where+you+can+get+FREE+training+and+certification+vouchers+for+not+just+one_+but+FIVE+Google+Cloud+exams_+_%0A).*
 
 - [Useful Links](#some-super-useful-links-i-recommend)
 - [Books](#if-you-prefer-books-too)
@@ -156,7 +156,7 @@ Table 1: Comparison of OLTP and OLAP systems
 - Cloud workflow orchestrate API driven job or task, and Cloud Scheduler is for cron job.
 
 ## BeyondCorp
-- BeyondCorp, something like ISE work for GCP, on-prem, and other cloud, use a proxy coupled with IAP to grant access to user based on Device, Identity, and other.
+- BeyondCorp, something like ISE (in terms of visibility) work for GCP, on-prem, and other cloud, use a proxy coupled with IAP to grant access to user based on Device, Identity, and other.
 
 ## API
 - In terms of API, Cloud Endpoint is good for modern apps, and APIgee for legacy and API monetization.
@@ -195,10 +195,10 @@ Table 1: Comparison of OLTP and OLAP systems
 
 # some super useful links (I recommend)
 - [GCP Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/): A collection of flowcharts that help visualize GCP services and their relationships.
-- [Case Studies Breakdown](https://www.youtube.com/playlist?list=PLiGDmIpNsrc186jo3qelMAWvRCd2zzk7P): A playlist of videos that cover various topics related to GCP certification exams, including the PCA exam.
-- [Understand case studies](https://youtube.com/playlist?list=PLzS78SLeHQWphBxEusyxksU7-FDBDhj0H&si=tyRCo2CuIxaHTTPF): A tutorial series on Google Cloud Run, a fully managed serverless platform for containerized applications.
+- [Case Studies Breakdown](https://www.youtube.com/playlist?list=PLiGDmIpNsrc186jo3qelMAWvRCd2zzk7P): A playlist of videos that cover case studies.
+- [Understand case studies](https://youtube.com/playlist?list=PLzS78SLeHQWphBxEusyxksU7-FDBDhj0H&si=tyRCo2CuIxaHTTPF)
 
 # If you prefer books too
 - [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.google.tg/books/edition/Official_Google_Cloud_Certified_Professi/MRCyDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover): A comprehensive guide to preparing for the GCP Professional Cloud Architect certification exam, written by Google Cloud experts.
-- [Professional Cloud Architect Certification Guide: A Comprehensive Guide to Design, Manage, and Secure Enterprise-grade GCP Cloud Solutions](https://www.amazon.com/Professional-Cloud-Architect-Certification-enterprise-grade/dp/1838555277): A guide to preparing for the GCP Professional Cloud Architect certification exam, covering topics such as GCP architecture, security, networking, and data management.
+- [Professional Cloud Architect Certification Guide: A Comprehensive Guide to Design, Manage, and Secure Enterprise-grade GCP Cloud Solutions](https://www.amazon.com/Professional-Cloud-Architect-Certification-enterprise-grade/dp/1838555277): A guide to preparing for the GCP Professional Cloud Architect certification exam, covering topics such as GCP architecture, security, networking, data management, etc.
 - From PCA exam perspective, it’s worth to read chapters 2, 6, 8 and 17 (1st half) from [Google SRE book](https://sre.google/sre-book/table-of-contents/)
