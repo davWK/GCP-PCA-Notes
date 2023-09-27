@@ -1,3 +1,5 @@
+![GCP Professional Cloud Architect Certification](https://www.gstatic.com/cloud/site/images/education/certification/professional-cloud-architect.png)
+
 # Learning Notes for Google Cloud Professional Cloud Architect Exam
 
 Here is a collection of technical information related to Google Cloud Platform (GCP) that is relevant for those preparing for the GCP Professional Cloud Architect (PCA) certification exam. It covers a range of topics that are likely to be tested on the exam, including billing and resource management, data processing and management, GKE management, load balancing, connectivity, deployment strategies and so on. As such, it provides a useful resource for those looking to prepare for the PCA exam and gain an understanding of GCP and its services.
