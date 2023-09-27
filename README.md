@@ -1,4 +1,4 @@
-![GCP Professional Cloud Architect Certification](https://www.gstatic.com/cloud/site/images/education/certification/professional-cloud-architect.png)
+![GCP Professional Cloud Architect Certification](PCA.png)
 
 # Learning Notes for Google Cloud Professional Cloud Architect Exam
 
